@@ -1,5 +1,7 @@
 execute pathogen#infect()
 
+colorscheme default
+
 syntax on
 set number
 
